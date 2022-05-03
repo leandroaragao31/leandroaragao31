@@ -30,6 +30,6 @@
   <a href = "leandroaragao31@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leandro-aragao-522841207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/leandroaragao31/leandroaragao31/blob/output/github-contribution-grid-snake.svg)
+  [![Generate Datas](https://github.com/leandroaragao31/leandroaragao31/actions/workflows/cobrinha.yml/badge.svg)](https://github.com/leandroaragao31/leandroaragao31/actions/workflows/cobrinha.yml)
  
 </div>
