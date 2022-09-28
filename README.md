@@ -3,7 +3,7 @@
 
 
 - 🔭 I'm working teaching front-end
-- 🌱 I’m currently learning Gatsby
+- 🌱 I’m currently learning Gatsby, Robot Framework and vue.js
 - 📫 Contact me by email: leandroaragao31@gmail.com
 - 😄 Pronouns: he/him
 
